@@ -13,3 +13,4 @@ tokensN = tokenizer.word_tokenize(textN)
 b_join = ''.join(tokensN)
 a_join = [b_join]
 print(a_join)
+

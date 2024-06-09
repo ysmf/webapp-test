@@ -13,3 +13,4 @@ tfidf_df = pd.DataFrame({'word': feature_names, 'tfidf': tfidf_scores})
 tfidf_df = tfidf_df.sort_values(by='tfidf', ascending=False)
 
 tfidf_df.to_csv('tfidf_results.csv', index=False)
+

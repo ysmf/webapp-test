@@ -2,3 +2,4 @@ streamlit
 pandas
 pythainlp
 pythainlp scikit-learn
+

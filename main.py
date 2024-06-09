@@ -19,3 +19,4 @@ data = {
 custom_df = pd.DataFrame(data)
 
 st.dataframe(custom_df)
+
